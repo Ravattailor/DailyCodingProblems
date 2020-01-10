@@ -20,6 +20,11 @@ import java.util.Arrays;
  * Output: [-1, -1]
  *
  * Link :- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+ *
+ * Solution :- In Single Loop Run to check from start and end  (two pointer)
+ *
+ * Others :- loop from start and loop from end
+ *           binary search
  */
 public class FirstLastIndices {
     public static void main(String[] args) {
